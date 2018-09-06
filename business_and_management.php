@@ -1,0 +1,15 @@
+<html>
+<head><title></title>
+<link rel="stylesheet" type="text/css" href="stylebmc.css"/></head>
+<body><CENTER>
+<h1>BUSINESS_AND_MANAGEMENT....(BUSINESS_AND_MANAGEMENT CLUB)</H1>
+<H3>AIMS TO CULTIVATE STUDENT MANAGEMENT SKILLS FOR IMMEDIATE AND FUTURE PROFESSIONAL USE...</BR>
+</BR></BR>
+
+<H2><A HREF='events_business_and_management.php'>VIEW EVENTS CONDUCTED BY BUSINESS_AND_MANAGEMENT</A></H2></BR></BR>
+<H2><A HREF='schedule_business_and_management.php'>VIEW SCHEDULE AND REGISTRATION_FEE OF EVENTS CONDUCTED BY BUSINESS_AND_MANAGEMENT</A></H2></BR></BR>
+<H2><A HREF='coordinator_business_and_management.php'>VIEW COORDINATOR DETAILS OF EVENTS CONDUCTED BY BUSINESS_AND_MANAGEMENT</A></H2></BR></BR>
+<H2><A HREF='prize_business_and_management.php'>VIEW PRIZE_MONEY FOR EVENTS CONDUCTED BY BUSINESS_AND_MANAGEMENT</A></H2></BR></BR>
+</CENTER>
+</BODY>
+</HTML>

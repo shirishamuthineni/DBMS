@@ -1,0 +1,16 @@
+<html>
+<head><title></title>
+<link rel="stylesheet" type="text/css" href="stylerobotic.css"/></head>
+<body><CENTER>
+<h1>ROBOTICS....(ROBOTICS CLUB)</H1>
+<H3>WE AIM TO UPGRADE ONCE KNOWLEDGE ABOUT ROBOTICS AND TO UPDATE WITH LATEST TRENDS AND TECHNOLOGIES IN ROBOTICS</BR>
+</H3>
+</BR></BR>
+
+<H2><A HREF='events_robotics.php'>VIEW EVENTS CONDUCTED BY ROBOTICS</A></H2></BR></BR>
+<H2><A HREF='schedule_robotics.php'>VIEW SCHEDULE AND REGISTRATION_FEE OF EVENTS CONDUCTED BY ROBOTICS</A></H2></BR></BR>
+<H2><A HREF='coordinator_robotics.php'>VIEW COORDINATOR DETAILS OF EVENTS CONDUCTED BY ROBOTICS</A></H2></BR></BR>
+<H2><A HREF='prize_robotics.php'>VIEW PRIZE_MONEY FOR EVENTS CONDUCTED BY ROBOTICS</A></H2></BR></BR>
+</CENTER>
+</BODY>
+</HTML>

@@ -1,0 +1,17 @@
+<html>
+<head><title></title><link rel="stylesheet" type="text/css" href="stylesazz.css"/>
+</head>
+<body><CENTER>
+<h1>SAAZ....(MUSICAL CLUB)</H1>
+<H3>WHEN EVER SOCIETY GETS TO STIFLING AND THE RULES GET TOO COMPLEX,THERE'S SOME SORT OF MUSICAL EXPLOSION...</BR>
+THE PLACE TO EXPLORE IT-PDPM IIITDMJ...</BR>
+</H3>
+</BR></BR>
+
+<H2><A HREF='events_saaz.php'>VIEW EVENTS CONDUCTED BY SAAZ</A></H2></BR></BR>
+<H2><A HREF='schedule_saaz.php'>VIEW SCHEDULE AND REGISTRATION_FEE OF EVENTS CONDUCTED BY SAAZ</A></H2></BR></BR>
+<H2><A HREF='coordinator_saaz.php'>VIEW COORDINATOR DETAILS OF EVENTS CONDUCTED BY SAAZ</A></H2></BR></BR>
+<H2><A HREF='prize_saaz.php'>VIEW PRIZE_MONEY FOR EVENTS CONDUCTED BY  SAAZ</A></H2></BR></BR>
+</CENTER>
+</BODY>
+</HTML>

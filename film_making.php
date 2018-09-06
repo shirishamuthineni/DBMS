@@ -1,0 +1,18 @@
+
+<html>
+<head><title></title>
+<link rel="stylesheet" type="text/css" href="stylefmc.css"/></head>
+
+<body><CENTER>
+<h1>FILM_MAKING....(FILM_MAKING CLUB)</H1>
+<H3>TO HELP STUDENTS TO MAKE SHORT VIDEO FILMS</BR> TO GIVE TRAINING IN DIRECTION,SCRIPTWRITING,ACTING,VIDEOGRAPHY AND COMPUTER VIDEO EDITING...</BR>
+</H3>
+</BR></BR>
+
+<H2><A HREF='events_film_making.php'>VIEW EVENTS CONDUCTED BY FILM_MAKING</A></H2></BR></BR>
+<H2><A HREF='schedule_film_making.php'>VIEW SCHEDULE AND REGISTRATION_FEE OF EVENTS CONDUCTED BY FILM_MAKING</A></H2></BR></BR>
+<H2><A HREF='coordinator_film_making.php'>VIEW COORDINATOR DETAILS OF EVENTS CONDUCTED BY FILM_MAKING</A></H2></BR></BR>
+<H2><A HREF='prize_film_making.php'>VIEW PRIZE_MONEY FOR EVENTS CONDUCTED BY FILM_MAKING</A></H2></BR></BR>
+</CENTER>
+</BODY>
+</HTML>
